@@ -32,7 +32,7 @@ GitHub Saver is a small TUI tool that backs up your GitHub repositories by cloni
 Install from GitHub:
 
 ```bash
-cargo install --git https://github.com/MrachniyTipchek/Github-Saver --locked
+cargo install --git https://github.com/Nullstyx/Github-Saver --locked
 ```
 
 Run:
@@ -92,10 +92,10 @@ This project is distributed under the **[MIT](LICENSE)** license.
 
 - **Author**: https://github.com/Nullstyx
 
-[stars-shield]: https://img.shields.io/github/stars/MrachniyTipchek/README-Template?style=for-the-badge
-[forks-shield]: https://img.shields.io/github/forks/MrachniyTipchek/README-Template?style=for-the-badge
-[contributors-shield]: https://img.shields.io/github/contributors/MrachniyTipchek/README-Template?style=for-the-badge
-[license-shield]: https://img.shields.io/github/license/MrachniyTipchek/README-Template?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/Nullstyx/Github-Saver?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/Nullstyx/Github-Saver?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/Nullstyx/Github-Saver?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/Nullstyx/Github-Saver?style=for-the-badge
 [languages-shield]: https://img.shields.io/badge/Languages-Rust-blue?style=for-the-badge
-[build-status-shield]: https://img.shields.io/github/actions/workflow/status/MrachniyTipchek/README-Template/WORKFLOW_FILE.yml?style=for-the-badge&label=Build%20status
+[build-status-shield]: https://img.shields.io/github/actions/workflow/status/Nullstyx/Github-Saver/ci.yml?style=for-the-badge&label=Build%20status
 [build-tool-shield]: https://img.shields.io/badge/Build%20tool-Cargo-blueviolet?style=for-the-badge
