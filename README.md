@@ -90,7 +90,7 @@ This project is distributed under the **[MIT](LICENSE)** license.
 
 ### Contacts
 
-- **Author**: [MrachniyTipchek](https://github.com/MrachniyTipchek)
+- **Author**: https://github.com/Nullstyx
 
 [stars-shield]: https://img.shields.io/github/stars/MrachniyTipchek/README-Template?style=for-the-badge
 [forks-shield]: https://img.shields.io/github/forks/MrachniyTipchek/README-Template?style=for-the-badge
